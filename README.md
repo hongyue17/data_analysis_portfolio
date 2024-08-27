@@ -1,13 +1,13 @@
 # Yuchi Lai - Data Analysis Portfolio
 
 ## About
-Hi, I'm Yuchi Lai! I recently graduated from in MSc Urban Data Science and Analytics  from University of Leeds.
+Hi, I'm Yuchi Lai! I recently graduated with an MSc in Urban Data Science and Analytics from the University of Leeds. My academic journey is rooted in a rich technical background with a Bachelor’s in Architecture and extensive experience in data-driven project design and analysis.
 
 [Link to your article or blog if applicable]
 
 [Link to your CV in PDF]
 
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analysis and Data Science-related topics.
+This repository showcases my versatile data analysis skills, applied in diverse projects. Feel free to explore my projects and track the ongoing progress in my data science and analytics journey.
 
 ## Table of Contents
 - [About](#about)
@@ -22,19 +22,19 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-### Project Title 1
+### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution
 **Code:** [Link to the repository or Jupyter notebook]
 **Description:** Brief description of the project, objectives, and results.
 **Skills:** List of skills utilized and developed in the project.
 **Technology:** Tools and technologies used.
 
-### Project Title 2
+### Utilising Generative AI to Produce Property Investment Reports for Homebuyers
 **Code:** [Link to the repository or Jupyter notebook]
 **Description:** Brief description of the project, objectives, and results.
 **Skills:** List of skills utilized and developed in the project.
 **Technology:** Tools and technologies used.
 
-### Project Title 3
+### Forecasting Demand for London's Electric Shared Bikes Using Machine Learning
 **Code:** [Link to the repository or Jupyter notebook]
 **Description:** Brief description of the project, objectives, and results.
 **Skills:** List of skills utilized and developed in the project.
@@ -55,6 +55,5 @@ This repository serves to showcase my skills and as a platform to share my proje
 List of certificates with completion dates, potentially linking to images or verification pages.
 
 ## Contacts
-- **LinkedIn:** [Your LinkedIn profile]
-- **Twitter:** [Your Twitter handle]
-- **E-mail:** [Your email address]
+- **LinkedIn:** [[Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)]
+- **E-mail:** [Gmail](hongyuelai@gmail.com)
