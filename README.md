@@ -24,11 +24,11 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 <br>
 
 ## Portfolio Projects
-### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution
+### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution  
 **Code:** [Link to the repository or Jupyter notebook]
-**Description:** Brief description of the project, objectives, and results.
+**Description:** Utilised Python, including scikit-learn for statistical and machine learning techniques, to explore, clean, and process over 1 million transactional data entries from the ASDA Morley store. Applied ETL processes and K-means clustering to segment customer purchases into distinct health-based profiles, revealing critical consumer behaviors and geographical trends. Enhanced the K-means clustering silhouette score by 54.8%, from 0.42 to 0.65, by selecting optimal features and using Mahalanobis distance to remove outliers. The insights gained from this comprehensive analysis informed ASDA's marketing strategies and supported urban health policy development.
 **Skills:** List of skills utilized and developed in the project.
-**Technology:** Tools and technologies used.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels Stats.
 
 ### Utilising Generative AI to Produce Property Investment Reports for Homebuyers
 **Code:** [Link to the repository or Jupyter notebook]  
