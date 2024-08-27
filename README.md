@@ -74,5 +74,5 @@ List of certificates with completion dates, potentially linking to images or ver
 <br>
 
 ## Contacts
-- **LinkedIn:** [[Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)]  
+- **LinkedIn:** [Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)  
 - **E-mail:** [Gmail](hongyuelai@gmail.com)  
