@@ -50,14 +50,14 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 
 ## Study Projects
 ### Course or Training 1
-**Description:** Brief description of the course or training.
-**Repository:** [Link to the repository]
-**Status:** Completed in [Month Year]
+**Description:** Brief description of the course or training.  
+**Repository:** [Link to the repository]  
+**Status:** Completed in [Month Year]  
 
 ### Course or Training 2
-**Description:** Brief description of the course or training.
-**Repository:** [Link to the repository]
-**Status:** Completed in [Month Year]
+**Description:** Brief description of the course or training.  
+**Repository:** [Link to the repository]  
+**Status:** Completed in [Month Year]  
 
 <br>
 
@@ -67,5 +67,5 @@ List of certificates with completion dates, potentially linking to images or ver
 <br>
 
 ## Contacts
-- **LinkedIn:** [[Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)]
-- **E-mail:** [Gmail](hongyuelai@gmail.com)
+- **LinkedIn:** [[Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)]  
+- **E-mail:** [Gmail](hongyuelai@gmail.com)  
