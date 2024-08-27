@@ -29,16 +29,20 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Technology:** Tools and technologies used.
 
 ### Utilising Generative AI to Produce Property Investment Reports for Homebuyers
-**Code:** [Link to the repository or Jupyter notebook]
-**Description:** Brief description of the project, objectives, and results.
-**Skills:** List of skills utilized and developed in the project.
+**Code:** [Link to the repository or Jupyter notebook]  
+**Description:** Brief description of the project, objectives, and results.  
+**Skills:** List of skills utilized and developed in the project.  
 **Technology:** Tools and technologies used.
 
 ### Forecasting Demand for London's Electric Shared Bikes Using Machine Learning
-**Code:** [Link to the repository or Jupyter notebook]
-**Description:** Brief description of the project, objectives, and results.
-**Skills:** List of skills utilized and developed in the project.
-**Technology:** Tools and technologies used.
+**Code:** [Link to the repository or Jupyter notebook]  
+**Description:** Brief description of the project, objectives, and results.  
+**Skills:** List of skills utilized and developed in the project.  
+**Technology:** Tools and technologies used.  
+
+### Project 4
+### Project 5
+### Project 6
 
 ## Study Projects
 ### Course or Training 1
