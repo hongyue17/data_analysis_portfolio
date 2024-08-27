@@ -21,6 +21,8 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
+<br>
+
 ## Portfolio Projects
 ### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution
 **Code:** [Link to the repository or Jupyter notebook]
@@ -44,6 +46,8 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ### Project 5
 ### Project 6
 
+<br>
+
 ## Study Projects
 ### Course or Training 1
 **Description:** Brief description of the course or training.
@@ -55,8 +59,12 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Repository:** [Link to the repository]
 **Status:** Completed in [Month Year]
 
+<br>
+
 ## Certificates
 List of certificates with completion dates, potentially linking to images or verification pages.
+
+<br>
 
 ## Contacts
 - **LinkedIn:** [[Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)]
