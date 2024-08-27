@@ -25,20 +25,20 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 
 ## Portfolio Projects
 ### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution  
-**Code:** [Link to the repository or Jupyter notebook]
-**Description:** Utilised Python, including scikit-learn for statistical and machine learning techniques, to explore, clean, and process over 1 million transactional data entries from the ASDA Morley store. Applied ETL processes and K-means clustering to segment customer purchases into distinct health-based profiles, revealing critical consumer behaviors and geographical trends. Enhanced the K-means clustering silhouette score by 54.8%, from 0.42 to 0.65, by selecting optimal features and using Mahalanobis distance to remove outliers. The insights gained from this comprehensive analysis informed ASDA's marketing strategies and supported urban health policy development.
-**Skills:** List of skills utilized and developed in the project.
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels Stats.
+**Code:** [Link to the repository or Jupyter notebook]  
+**Description:** Utilised Python, including scikit-learn for statistical and machine learning techniques, to explore, clean, and process over 1 million transactional data entries from the ASDA Morley store. Applied ETL processes and K-means clustering to segment customer purchases into distinct health-based profiles, revealing critical consumer behaviors and geographical trends. Enhanced the K-means clustering silhouette score by 54.8%, from 0.42 to 0.65, by selecting optimal features and using Mahalanobis distance to remove outliers. The insights gained from this comprehensive analysis informed ASDA's marketing strategies and supported urban health policy development.  
+**Skills:** List of skills utilized and developed in the project.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels Stats.  
 
 ### Utilising Generative AI to Produce Property Investment Reports for Homebuyers
 **Code:** [Link to the repository or Jupyter notebook]  
-**Description:** Brief description of the project, objectives, and results.  
+**Description:** Analysed planning data from Leeds City Council using Python, ETL, HTML, and the ChatGPT API to assess the development potential of a selected Leeds property. Enhanced prompt precision by defining specific roles and ensuring accuracy, which avoided speculative data generation and improved readability for homebuyers. Generated the final report in HTML format, making the process fully reproducible for other locations. This project produced a detailed investment viability report for Martello, offering key insights to guide homebuyers' decisions.  
 **Skills:** List of skills utilized and developed in the project.  
 **Technology:** Tools and technologies used.
 
 ### Forecasting Demand for London's Electric Shared Bikes Using Machine Learning
 **Code:** [Link to the repository or Jupyter notebook]  
-**Description:** Brief description of the project, objectives, and results.  
+**Description:** Utilised Python, R, and Random Forest to analyse 2022 origin-destination data for Santander Cycles' electric bikes, comparing them with traditional models. The analysis identified key differences in usage patterns, popular locations, peak times, and demographics. A predictive model was developed to estimate e-bike demand, achieving a Mean Squared Error (MSE) of 14.66 across 8.5 million entries. The model accurately predicted demand for over 80% of stations, providing insights to optimise bike distribution and strategically plan future e-bike station placements.  
 **Skills:** List of skills utilized and developed in the project.  
 **Technology:** Tools and technologies used.  
 
