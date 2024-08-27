@@ -49,15 +49,22 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 <br>
 
 ## Study Projects
-### Course or Training 1
-**Description:** Brief description of the course or training.  
+### Python and Machine Learning Course  
+**Description:** This course offers a comprehensive introduction to Python programming and machine learning, starting from the basics of data structures and control flow to advanced applications like data processing with Numpy, Pandas, and Scikit-learn. It covers essential machine learning algorithms, including Linear Regression, Classification, KNN, Decision Trees, and Clustering. Through practical examples and real-world case studies, the course equips you with both the theoretical knowledge and hands-on skills needed to apply machine learning techniques effectively.  
 **Repository:** [Link to the repository]  
-**Status:** Completed in [Month Year]  
+**Status:** Successfully completed in January 2024.
 
-### Course or Training 2
-**Description:** Brief description of the course or training.  
+### Python, Big Data Analytics, and Image Recognition Training Program
+**Description:** This 400-hour training program provided me with a robust foundation in Python programming, web scraping, MySQL, and OpenCV, focusing entirely on comprehensive data analytics from data collection through to visualization. I gained practical experience in image recognition, real-time analytics, and advanced data visualization techniques using tools like Tableau and Power BI. This extensive technical training prepared me to tackle complex data analysis challenges across various sectors.
 **Repository:** [Link to the repository]  
-**Status:** Completed in [Month Year]  
+**Status:** Successfully completed in June 2023.    
+
+### Spatial Big Data Analysis: An Introduction to GIS
+**Description:** This 6-hour online course provided by HowGIS offers a comprehensive introduction to Geographic Information Systems (GIS). It begins with fundamental GIS skills such as spatial data handling, software installation, and data formatting, and progresses to more advanced applications, including remote sensing, digital twin technology, and satellite observation. The training includes detailed practical exercises in spatial querying, data editing, and coordinate system transformations. Furthermore, it delves into specialized applications in urban planning and environmental analysis, utilizing advanced GIS techniques like suitability analysis, spatial statistics, and 3D modeling. These modules enhance both theoretical understanding and practical skills, making them applicable across various professional settings.  
+**Repository:** [Link to the repository]  
+**Status:** Successfully completed in February 2023.
+
+
 
 <br>
 
