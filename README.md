@@ -12,9 +12,9 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#project-title-1)
-  - [Forecasting Demand for London's Electric Shared Bikes](#project-title-2)
-  - [Project Title 3](#project-title-3)
+  - [Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
+  - [Forecasting Demand for London's Electric Shared Bikes](#forecasting-demand-for-londons-electric-shared-bikes)
+  - [Property Investment Reports for Homebuyers](#property-investment-reports-for-homebuyers)
 - [Study Projects](#study-projects)
   - [Course or Training 1](#course-or-training-1)
   - [Course or Training 2](#course-or-training-2)
@@ -26,20 +26,23 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ## Portfolio Projects
 ### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution  
 **Code:** [Link to the repository or Jupyter notebook]  
-**Description:**  For my dissertation, I collaborated with ASDA to analyse health-conscious shopping behaviours using a dataset of over one million transactions from their Morley store. Utilising K-means clustering, I identified a customer segment characterized by low expenditure and minimal item purchases, who predominantly buy unhealthy products. This study aimed to provide ASDA with deeper insights into customer shopping patterns and to explore the relationships between demographic factors, such as the Index of Multiple Deprivation (IMD), Physical Food Environment (PPFI), and education levels. This project showcased my ability to manage large datasets and apply machine learning techniques for strategic analysis.
+**Presentation:**
+**Description:**  For my dissertation, I collaborated with ASDA to analyse health-conscious shopping behaviours using a dataset of over one million transactions from their Morley store. Utilising K-means clustering, I identified a customer segment characterized by low expenditure and minimal item purchases, who predominantly buy unhealthy products. This study aimed to provide ASDA with deeper insights into customer shopping patterns and to explore the relationships between demographic factors, such as the Index of Multiple Deprivation (IMD), Physical Food Environment (PPFI), and education levels. This project showcased my ability to manage large datasets and apply machine learning techniques for strategic analysis.  
 **Results:** The analysis revealed that customers with lower spending and fewer items in their baskets tend to choose unhealthier products. Specifically, residents of the postcode district LS10 exhibited less healthy shopping habits compared to those in six other postcode districts in Leeds. These findings helped ASDA guide customers in making healthier purchasing decisions.  
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Hypothesis Testing, Machine Learning, Geospatial Analysis, Visualisation, Large-scale Data Handling.  
 **Technology:** Python, Pandas, Numpy, Statsmodels, Scipy, scikit-learn, K-means, Geopandas, Pyproj, Seaborn, Matplotlib.  
 
 ### Forecasting Demand for London's Electric Shared Bikes
 **Code:** [Link to the repository or Jupyter notebook]  
-**Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure. 
+**Presentation:**
+**Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure.  
 **Results:** The study revealed that electric bikes have different usage patterns compared to classic bikes, particularly with a notable decrease in demand during the winter months. The model, which takes into account factors such as station location, weekday, and time, effectively predicts the demand for electric bikes, offering valuable insights for optimizing their deployment.  
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Demand Forecasting,　 Geospatial Analysis, Web Scraping, Visualisation.
 **Technology:** Python: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. R: dplyr, tidyr, ggplot2, tmap.
 
 ### Property Investment Reports for Homebuyers
 **Code:** [Link to the repository or Jupyter notebook]  
+**Presentation:**
 **Description:** Analysed planning data from Leeds City Council using Python, ETL, HTML, and the ChatGPT API to assess the development potential of a selected Leeds property. Enhanced prompt precision by defining specific roles and ensuring accuracy, which avoided speculative data generation and improved readability for homebuyers. Generated the final report in HTML format, making the process fully reproducible for other locations. This project produced a detailed investment viability report for Martello, offering key insights to guide homebuyers' decisions.  
 
 **Skills:** 
