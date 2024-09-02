@@ -30,7 +30,7 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 
 ### 🚲 Forecasting Demand for London's Electric Shared Bikes
 **Code:** [`Jupyter notebook`]()  
-**Presentation:** [`Full Report`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/full_report.pdf)  
+**Presentation:** [`Brief`](https://github.com/hongyue17/electric_bike_demand_forecast_london/tree/main), [`Full Report`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/full_report.pdf)  
 **Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure.  
 **Results:** The study revealed that electric bikes have different usage patterns compared to classic bikes, particularly with a notable decrease in demand during the winter months. The model, which takes into account factors such as station location, weekday, and time, effectively predicts the demand for electric bikes, offering valuable insights for optimizing their deployment.  
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Demand Forecasting, Geospatial Analysis, Web Scraping, Visualisation.  
