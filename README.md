@@ -57,7 +57,7 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Technology:** Python, Pandas, Numpy, Selenium, Descriptive Statistic, Correlation Matrix, Seaborn, Matplotlib  
 
 ### Data Analyst Job Vacancies in Taiwan
-**Code:** [Link to the repository or Jupyter notebook]  
+**Code:** [Link to the repository or Jupyter notebook](https://github.com/hongyue17/web_scrapping_data_analyst_job/blob/main/data_analyst_job_scrapping3.ipynb)  
 **Presentation:** [Tableau Dashboard](https://public.tableau.com/app/profile/yuchi.lai/viz/DataAnalystJobsinTaiwan/Dashboard?publish=yes)  
 **Description:** Scraped data analyst job listings from Taiwan's largest job website to assist not only in my job search but also in helping others explore similar opportunities. The data includes job titles, salaries, industry distribution, job locations, and work experience requirements. Further details can be explored by interacting with the Tableau dashboard.  
 **Skills:** Web Scraping, Data Cleaning and Processing, Dashboard Creation.  
