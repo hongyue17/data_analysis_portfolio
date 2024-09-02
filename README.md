@@ -67,7 +67,7 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ## Study Projects
 ### Python and Machine Learning Course  
 **Description:** This course, provided by the NTU Information Systems Training Program, offers a comprehensive introduction to Python programming and machine learning, starting from the basics of data structures and control flow to advanced applications like data processing with Numpy, Pandas, and Scikit-learn. It covers essential machine learning algorithms, including Linear Regression, Classification, KNN, Decision Trees, and Clustering. Through practical examples and real-world case studies, the course equips you with both the theoretical knowledge and hands-on skills needed to apply machine learning techniques effectively.  
-**Repository:** [Link to the repository]  
+**Repository:** [go to repository](https://github.com/hongyue17/py_machine_learning_342)  
 **Status:** Successfully completed in January 2024.  
 
 <br>
