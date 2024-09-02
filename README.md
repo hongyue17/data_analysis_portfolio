@@ -1,7 +1,7 @@
 # Yuchi Lai - Data Analysis Portfolio
 
 ## About
-Hi, I'm Yuchi Lai! I recently graduated with an MSc in Urban Data Science and Analytics from the University of Leeds. My academic journey is rooted in a rich technical background with a Bachelor’s in Architecture and extensive experience in data-driven project design and analysis.
+Hi, I'm Yuchi Lai! I graduated with an MSc in Urban Data Science and Analytics from the University of Leeds. My academic journey is rooted in a rich technical background with a Bachelor’s in Architecture and extensive experience in data-driven project design and analysis.
 
 [Link to your article or blog if applicable]
 
