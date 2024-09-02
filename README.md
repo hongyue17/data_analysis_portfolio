@@ -49,15 +49,15 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Technology:** Python, Generative AI
 
 ### Strategies for Fairer Council Tax in London
-**Repository:** [Link to the repository or Jupyter notebook]  
-**Presentation:**[Full Report](https:)  
+**Repository:** [fairer_council_tax_london.ipynb](https://github.com/hongyue17/fairer_council_tax_london/blob/main/fairer_council_tax_london.ipynb)  
+**Presentation:** [Full Report]([https:](https://github.com/hongyue17/fairer_council_tax_london/blob/main/Urban%20Policy%20Briefing.pdf))  
 **Description:** This final project from the "Analytics for Urban Policy" module during my master’s programme addresses the challenges of council tax in London, which is still based on property values from 1991. These outdated valuations do not reflect current pricing variations. Descriptive statistics and visualisations were employed to analyse the relationship between council tax, average income, and housing prices. A Tax Pressure Index (TPI) was developed to evaluate the fairness of council tax across different boroughs. Clustering techniques were then applied to categorise boroughs, with the goal of proposing a more equitable council tax valuation system across London.  
 **Results:** The analysis revealed that boroughs in outer London, particularly in the east, experience greater tax pressure. Boroughs were grouped into four clusters, with those featuring less business activity, fewer residents aged 19-64, and larger amounts of green and blue space facing higher council tax amounts.  
 **Skills:** Data Cleaning and Processing, Descriptive Statistic, Web scrapping, Machine Learning(Hierarchical and Kmeans), Index development, Visulisation  
 **Technology:** Python, Pandas, Numpy, Selenium, Descriptive Statistic, Correlation Matrix, Seaborn, Matplotlib  
 
 ### Data Analyst Job Vacancies in Taiwan
-**Code:** [Link to the repository or Jupyter notebook](https://github.com/hongyue17/web_scrapping_data_analyst_job/blob/main/data_analyst_job_scrapping3.ipynb)  
+**Code:** [data_analyst_job_scrapping3.ipynb](https://github.com/hongyue17/web_scrapping_data_analyst_job/blob/main/data_analyst_job_scrapping3.ipynb)  
 **Presentation:** [Tableau Dashboard](https://public.tableau.com/app/profile/yuchi.lai/viz/DataAnalystJobsinTaiwan/Dashboard?publish=yes)  
 **Description:** Scraped data analyst job listings from Taiwan's largest job website to assist not only in my job search but also in helping others explore similar opportunities. The data includes job titles, salaries, industry distribution, job locations, and work experience requirements. Further details can be explored by interacting with the Tableau dashboard.  
 **Skills:** Web Scraping, Data Cleaning and Processing, Dashboard Creation.  
