@@ -38,7 +38,7 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 
 ### 🏡 Property Investment Reports for Homebuyers and Conveyancer
 **Code:** [`chatgpt_api.ipynb`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/chatgpt_api.ipynb)  
-**Presentation:** [`Brief`](https://github.com/hongyue17/genAI_property_investment_reports/tree/main)[`Slides`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/Presentation.pdf)  
+**Presentation:** [`Brief`](https://github.com/hongyue17/genAI_property_investment_reports/tree/main), [`Slides`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/Presentation.pdf)  
 **Description:** This project was part of the "Creative Coding for Urban Problems" module during the master’s program, developed in collaboration with Martello. The analysis focused on planning application data from Leeds City Council to assess potential new developments in the area, with the goal of providing valuable insights for homebuyers and conveyancers. The project utilised the ChatGPT API to streamline the process of reading planning applications by setting prompts specifically relevant to property purchases. These prompts were carefully crafted by defining roles, establishing clear objectives, and adding specific requirements to ensure accurate and relevant responses.  
 **Results:** The final report was generated in HTML format, providing non-professionals with a clear and accessible presentation of the findings. The process is fully reproducible, allowing similar reports to be created for different locations in the future.  
 **Skills:**  Prompt Engineering, Report Generation, HTML Formatting.  
