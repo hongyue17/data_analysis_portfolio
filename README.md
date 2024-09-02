@@ -37,14 +37,14 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure.  
 **Results:** The study revealed that electric bikes have different usage patterns compared to classic bikes, particularly with a notable decrease in demand during the winter months. The model, which takes into account factors such as station location, weekday, and time, effectively predicts the demand for electric bikes, offering valuable insights for optimizing their deployment.  
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Demand Forecasting, Geospatial Analysis, Web Scraping, Visualisation.  
-**Technology:** Python: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. R: dplyr, tidyr, ggplot2, tmap.
+**Technology:** **Python**: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. **R**: dplyr, tidyr, ggplot2, tmap.
 
 ### 🏡 Property Investment Reports for Homebuyers and Conveyancer
 **Code:** [`chatgpt_api.ipynb`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/chatgpt_api.ipynb)  
 **Presentation:** [`Slides`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/Presentation.pdf)  
 **Description:** This project was part of the "Creative Coding for Urban Problems" module during the master’s program, developed in collaboration with Martello. The analysis focused on planning application data from Leeds City Council to assess potential new developments in the area, with the goal of providing valuable insights for homebuyers and conveyancers. The project utilised the ChatGPT API to streamline the process of reading planning applications by setting prompts specifically relevant to property purchases. These prompts were carefully crafted by defining roles, establishing clear objectives, and adding specific requirements to ensure accurate and relevant responses.  
 **Results:** The final report was generated in HTML format, providing non-professionals with a clear and accessible presentation of the findings. The process is fully reproducible, allowing similar reports to be created for different locations in the future.  
-**Skills:**  Prompt Engineering, Report Generation, HTML Formatting
+**Skills:**  Prompt Engineering, Report Generation, HTML Formatting.  
 **Technology:** Python, Generative AI
 
 ### 💷 Strategies for Fairer Council Tax in London
@@ -52,7 +52,7 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Presentation:** [`Full Report`](https://github.com/hongyue17/fairer_council_tax_london/blob/main/Urban%20Policy%20Briefing.pdf)  
 **Description:** This project from the "Analytics for Urban Policy" module during my master’s programme addresses the challenges of council tax in London, which is still based on property values from 1991. These outdated valuations do not reflect current pricing variations. Descriptive statistics and visualisations were employed to analyse the relationship between council tax, average income, and housing prices. A Tax Pressure Index (TPI) was developed to evaluate the fairness of council tax across different boroughs. Clustering techniques were then applied to categorise boroughs, with the goal of proposing a more equitable council tax valuation system across London.  
 **Results:** The analysis revealed that boroughs in outer London, particularly in the east, experience greater tax pressure. Boroughs were grouped into four clusters, with those featuring less business activity, fewer residents aged 19-64, and larger amounts of green and blue space facing higher council tax amounts.  
-**Skills:** Data Cleaning and Processing, Descriptive Statistic, Web scrapping, Machine Learning(Hierarchical and Kmeans), Index development, Visulisation  
+**Skills:** Data Cleaning and Processing, Descriptive Statistic, Web scrapping, Machine Learning(Hierarchical and Kmeans), Index development, Visulisation.    
 **Technology:** Python, Pandas, Numpy, Selenium, Descriptive Statistic, Correlation Matrix, Seaborn, Matplotlib  
 
 ### 💼 Data Analyst Job Vacancies in Taiwan
