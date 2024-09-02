@@ -12,8 +12,8 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Project Title 1](#project-title-1)
-  - [Project Title 2](#project-title-2)
+  - [Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#project-title-1)
+  - [Forecasting Demand for London's Electric Shared Bikes](#project-title-2)
   - [Project Title 3](#project-title-3)
 - [Study Projects](#study-projects)
   - [Course or Training 1](#course-or-training-1)
@@ -26,25 +26,24 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 ## Portfolio Projects
 ### Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution  
 **Code:** [Link to the repository or Jupyter notebook]  
-**Description:** Utilised Python, including scikit-learn for statistical and machine learning techniques, to explore, clean, and process over 1 million transactional data entries from the ASDA Morley store. Applied ETL processes and K-means clustering to segment customer purchases into distinct health-based profiles, revealing critical consumer behaviors and geographical trends. Enhanced the K-means clustering silhouette score by 54.8%, from 0.42 to 0.65, by selecting optimal features and using Mahalanobis distance to remove outliers. The insights gained from this comprehensive analysis informed ASDA's marketing strategies and supported urban health policy development.  
-**Skills:** List of skills utilized and developed in the project.  
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels Stats.  
+**Description:**  For my dissertation, I collaborated with ASDA to analyse health-conscious shopping behaviours using a dataset of over one million transactions from their Morley store. Utilising K-means clustering, I identified a customer segment characterized by low expenditure and minimal item purchases, who predominantly buy unhealthy products. This study aimed to provide ASDA with deeper insights into customer shopping patterns and to explore the relationships between demographic factors, such as the Index of Multiple Deprivation (IMD), Physical Food Environment (PPFI), and education levels. This project showcased my ability to manage large datasets and apply machine learning techniques for strategic analysis.
+**Results:** The analysis revealed that customers with lower spending and fewer items in their baskets tend to choose unhealthier products. Specifically, residents of the postcode district LS10 exhibited less healthy shopping habits compared to those in six other postcode districts in Leeds. These findings helped ASDA guide customers in making healthier purchasing decisions.  
+**Skills:** Data Cleaning and Processing, Statistical Analysis, Hypothesis Testing, Machine Learning, Geospatial Analysis, Visualisation, Large-scale Data Handling.  
+**Technology:** Python, Pandas, Numpy, Statsmodels, Scipy, scikit-learn, K-means, Geopandas, Pyproj, Seaborn, Matplotlib.  
 
-### Utilising Generative AI to Produce Property Investment Reports for Homebuyers
+### Forecasting Demand for London's Electric Shared Bikes
+**Code:** [Link to the repository or Jupyter notebook]  
+**Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure. 
+**Results:** The study revealed that electric bikes have different usage patterns compared to classic bikes, particularly with a notable decrease in demand during the winter months. The model, which takes into account factors such as station location, weekday, and time, effectively predicts the demand for electric bikes, offering valuable insights for optimizing their deployment.  
+**Skills:** Data Cleaning and Processing, Statistical Analysis, Demand Forecasting,　 Geospatial Analysis, Web Scraping, Visualisation.
+**Technology:** Python: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. R: dplyr, tidyr, ggplot2, tmap.
+
+### Property Investment Reports for Homebuyers
 **Code:** [Link to the repository or Jupyter notebook]  
 **Description:** Analysed planning data from Leeds City Council using Python, ETL, HTML, and the ChatGPT API to assess the development potential of a selected Leeds property. Enhanced prompt precision by defining specific roles and ensuring accuracy, which avoided speculative data generation and improved readability for homebuyers. Generated the final report in HTML format, making the process fully reproducible for other locations. This project produced a detailed investment viability report for Martello, offering key insights to guide homebuyers' decisions.  
-**Skills:** List of skills utilized and developed in the project.  
-**Technology:** Tools and technologies used.
 
-### Forecasting Demand for London's Electric Shared Bikes Using Machine Learning
-**Code:** [Link to the repository or Jupyter notebook]  
-**Description:** Utilised Python, R, and Random Forest to analyse 2022 origin-destination data for Santander Cycles' electric bikes, comparing them with traditional models. The analysis identified key differences in usage patterns, popular locations, peak times, and demographics. A predictive model was developed to estimate e-bike demand, achieving a Mean Squared Error (MSE) of 14.66 across 8.5 million entries. The model accurately predicted demand for over 80% of stations, providing insights to optimise bike distribution and strategically plan future e-bike station placements.  
-**Skills:** List of skills utilized and developed in the project.  
-**Technology:** Tools and technologies used.  
-
-### Project 4
-### Project 5
-### Project 6
+**Skills:** 
+**Technology:** Python, ChatGPT API, 
 
 <br>
 
