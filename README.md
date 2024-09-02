@@ -3,21 +3,18 @@
 ## About
 Hi, I'm Yuchi Lai! I graduated with an MSc in Urban Data Science and Analytics from the University of Leeds. My academic journey is rooted in a rich technical background with a Bachelor’s in Architecture and extensive experience in data-driven project design and analysis.
 
-[Link to your article or blog if applicable]
-
-[Link to your CV in PDF]
-
 This repository showcases my versatile data analysis skills, applied in diverse projects. Feel free to explore my projects and track the ongoing progress in my data science and analytics journey.
 
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
-  - [Forecasting Demand for London's Electric Shared Bikes](#forecasting-demand-for-londons-electric-shared-bikes)
-  - [Property Investment Reports for Homebuyers](#property-investment-reports-for-homebuyers)
+  - [🥬 Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
+  - [🚲 Forecasting Demand for London's Electric Shared Bikes](#forecasting-demand-for-londons-electric-shared-bikes)
+  - [🏡 Property Investment Reports for Homebuyers and Conveyancers](#property-investment-reports-for-homebuyers-and-conveyancers)
+  - [💷 Strategies for Fairer Council Tax in London](#strategies-for-fairer-council-tax-in-london)
+  - [💼 Data Analyst Job Vacancies in Taiwan](#data-analyst-job-vacancies-in-taiwan)
 - [Study Projects](#study-projects)
-  - [Course or Training 1](#course-or-training-1)
-  - [Course or Training 2](#course-or-training-2)
+  - [Python and Machine Learning Course](#python-and-machine-learning-course)
 - [Contacts](#contacts)
 
 <br>
