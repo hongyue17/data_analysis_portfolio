@@ -18,7 +18,6 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 - [Study Projects](#study-projects)
   - [Course or Training 1](#course-or-training-1)
   - [Course or Training 2](#course-or-training-2)
-- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 <br>
@@ -70,12 +69,6 @@ This repository showcases my versatile data analysis skills, applied in diverse 
 **Description:** This course, provided by the NTU Information Systems Training Program, offers a comprehensive introduction to Python programming and machine learning, starting from the basics of data structures and control flow to advanced applications like data processing with Numpy, Pandas, and Scikit-learn. It covers essential machine learning algorithms, including Linear Regression, Classification, KNN, Decision Trees, and Clustering. Through practical examples and real-world case studies, the course equips you with both the theoretical knowledge and hands-on skills needed to apply machine learning techniques effectively.  
 **Repository:** [Link to the repository]  
 **Status:** Successfully completed in January 2024.  
-
-
-<br>
-
-## Certificates
-List of certificates with completion dates, potentially linking to images or verification pages.
 
 <br>
 
