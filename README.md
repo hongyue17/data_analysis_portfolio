@@ -69,7 +69,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Status:** Successfully completed in January 2024.  
 
 ### Python, Big Data Analytics, and Image Recognition Training Program
-**Description:** This 400-hour training program provided a solid foundation in Python programming, web scraping, MySQL, and OpenCV, with a strong emphasis on comprehensive data analytics from data collection to visualisation. It offered hands-on experience in image recognition, real-time analytics, and data visualisation using tools like Tableau and Power BI. This intensive technical training equipped me with a strong foundation before pursuing my master’s studies. 
+**Description:** This 400-hour training program provided a solid foundation in Python programming, web scraping, MySQL, and OpenCV, with a strong emphasis on comprehensive data analytics from data collection to visualisation. It offered hands-on experience in image recognition, real-time analytics, and data visualisation using tools like Tableau and Power BI.  
 **Status:** Successfully completed in June 2023.    
 
 ### Spatial Big Data Analysis: An Introduction to GIS
