@@ -68,6 +68,14 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Repository:** [go to repository](https://github.com/hongyue17/py_machine_learning_342)  
 **Status:** Successfully completed in January 2024.  
 
+### Python, Big Data Analytics, and Image Recognition Training Program
+**Description:** This 400-hour training program provided a solid foundation in Python programming, web scraping, MySQL, and OpenCV, with a strong emphasis on comprehensive data analytics from data collection to visualisation. It offered hands-on experience in image recognition, real-time analytics, and data visualisation using tools like Tableau and Power BI. This intensive technical training equipped me with a strong foundation before pursuing my master’s studies. 
+**Status:** Successfully completed in June 2023.    
+
+### Spatial Big Data Analysis: An Introduction to GIS
+**Description:** This 6-hour online course provided by HowGIS offers an introduction to Geographic Information Systems (GIS).This course provides an in-depth introduction to QGIS and key GIS concepts, covering spatial data collection, processing, analysis, and visualization.  
+**Status:** Successfully completed in February 2023.
+
 <br>
 
 ## Contacts
