@@ -11,6 +11,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 - [Portfolio Projects](#portfolio-projects)
   - [🥬 Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#-analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
   - [🚲 Forecasting Demand for London's Electric Shared Bikes](#-forecasting-demand-for-londons-electric-shared-bikes)
+  - [🚇 Stations Passenger Variation After the Opening of the Elizabeth Line](#-)
   - [🏡 Property Investment Reports for Homebuyers and Conveyancers](#-property-investment-reports-for-homebuyers-and-conveyancers)
   - [💷 Strategies for Fairer Council Tax in London](#-strategies-for-fairer-council-tax-in-london)
   - [💼 Data Analyst Job Vacancies in Taiwan](#-data-analyst-job-vacancies-in-taiwan)
@@ -37,12 +38,20 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Demand Forecasting, Geospatial Analysis, Web Scraping, Visualisation.  
 **Technology:** **Python**: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. **R**: dplyr, tidyr, ggplot2, tmap.
 
+### 🚇 Stations Passenger Variation After the Opening of the Elizabeth Line
+**Code & Report:** [`stations_passenger_variation_elizabeth_line.ipynb`]([https://](https://github.com/hongyue17/stations_passenger_variation_elizabeth_line/blob/main/stations_passenger_variation_elizabeth_line.ipynb)  
+**Presentation:** [`Brief`](https://)  
+**Description:** This project was part of the Data Science for Urban Systems module during my master’s programme. The analysis focused on changes in passenger volume following the opening of the Elizabeth Line in May 2022, comparing it to passenger flow in 2021. As a case study of a major public transportation shift, the project examined how station usage patterns were affected. Clustering methods, including K-means and DBSCAN, were used to categorise stations based on entry and exit times. Passenger volumes were segmented by weekdays, Fridays, and weekends, and further divided into six time periods per day. These segments were used as features to cluster the stations. The analysis identified shifts in usage patterns, providing valuable insights for optimising station operations and adjusting service frequencies.  
+**Results:** Tottenham Court Road and Paddington emerged as key junctions, while Gloucester Road saw a decrease in passengers, indicating a shift in usage patterns.   
+**Skills:**  Data Cleaning and Processing, Statistical Analysis, Geospatial Analysis, Visualisation, Machine Learning (K-means, DBSCAN)  
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly
+
 ### 🏡 Property Investment Reports for Homebuyers and Conveyancer
 **Code:** [`chatgpt_api.ipynb`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/chatgpt_api.ipynb)  
 **Presentation:** [`Brief`](https://github.com/hongyue17/genAI_property_investment_reports/tree/main), [`Slides`](https://github.com/hongyue17/genAI_property_investment_reports/blob/main/Presentation.pdf)  
 **Description:** This project was part of the "Creative Coding for Urban Problems" module during the master’s program, developed in collaboration with Martello. The analysis focused on planning application data from Leeds City Council to assess potential new developments in the area, with the goal of providing valuable insights for homebuyers and conveyancers. The project utilised the ChatGPT API to streamline the process of reading planning applications by setting prompts specifically relevant to property purchases. These prompts were carefully crafted by defining roles, establishing clear objectives, and adding specific requirements to ensure accurate and relevant responses.  
 **Results:** The final report was generated in HTML format, providing non-professionals with a clear and accessible presentation of the findings. The process is fully reproducible, allowing similar reports to be created for different locations in the future.  
-**Skills:**  Prompt Engineering, Report Generation, HTML Formatting.  
+**Skills:**  Prompt Engineering, Report Generation, HTML Formatting  
 **Technology:** Python, Generative AI
 
 ### 💷 Strategies for Fairer Council Tax in London
@@ -50,14 +59,14 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Presentation:** [`Brief`](https://github.com/hongyue17/fairer_council_tax_london), [`Full Report`](https://github.com/hongyue17/fairer_council_tax_london/blob/main/Urban%20Policy%20Briefing.pdf)  
 **Description:** This project from the "Analytics for Urban Policy" module during my master’s programme addresses the challenges of council tax in London, which is still based on property values from 1991. These outdated valuations do not reflect current pricing variations. Descriptive statistics and visualisations were employed to analyse the relationship between council tax, average income, and housing prices. A Tax Pressure Index (TPI) was developed to evaluate the fairness of council tax across different boroughs. Clustering techniques were then applied to categorise boroughs, with the goal of proposing a more equitable council tax valuation system across London.  
 **Results:** The analysis revealed that boroughs in outer London, particularly in the east, experience greater tax pressure. Boroughs were grouped into four clusters, with those featuring less business activity, fewer residents aged 19-64, and larger amounts of green and blue space facing higher council tax amounts.  
-**Skills:** Data Cleaning and Processing, Descriptive Statistic, Web scrapping, Machine Learning(Hierarchical and Kmeans), Index development, Visulisation.    
+**Skills:** Data Cleaning and Processing, Descriptive Statistic, Web scrapping, Machine Learning(Hierarchical and Kmeans), Index development, Visulisation    
 **Technology:** Python, Pandas, Numpy, Selenium, Descriptive Statistic, Correlation Matrix, Seaborn, Matplotlib  
 
 ### 💼 Data Analyst Job Vacancies in Taiwan
 **Code:** [`data_analyst_job_scrapping3.ipynb`](https://github.com/hongyue17/web_scrapping_data_analyst_job/blob/main/data_analyst_job_scrapping3.ipynb)  
 **Presentation:** [`Tableau Dashboard`](https://public.tableau.com/app/profile/yuchi.lai/viz/DataAnalystJobsinTaiwan/Dashboard?publish=yes)  
 **Description:** Scraped data analyst job listings from Taiwan's largest job website to assist not only in my job search but also in helping others explore similar opportunities. The data includes job titles, salaries, industry distribution, job locations, and work experience requirements. Further details can be explored by interacting with the Tableau dashboard.  
-**Skills:** Web Scraping, Data Cleaning and Processing, Dashboard Creation.  
+**Skills:** Web Scraping, Data Cleaning and Processing, Dashboard Creation  
 **Technology:** Python, Beautiful Soup, Tableau  
 
 <br>
