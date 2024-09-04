@@ -1,5 +1,7 @@
 # Yuchi Lai - Data Analysis Portfolio
 
+![Visitor Count](https://profile-counter.glitch.me/hongyue17/data_analysis_portfolio/count.svg)
+
 ## About
 Hi, I'm Yuchi Lai! With an MSc in Urban Data Science and Analytics from the University of Leeds and a Bachelor's in Architecture, I bring a unique blend of technical expertise and creative insight to data-driven projects. I’m passionate about how data can transform decision-making, yet I also value the critical role of human experience and cultural context in shaping meaningful outcomes.
 
