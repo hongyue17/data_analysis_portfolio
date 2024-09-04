@@ -11,7 +11,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 - [Portfolio Projects](#portfolio-projects)
   - [🥬 Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#-analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
   - [🚲 Forecasting Demand for London's Electric Shared Bikes](#-forecasting-demand-for-londons-electric-shared-bikes)
-  - [🚇 Stations Passenger Variation After the Opening of the Elizabeth Line](#-)
+  - [🚇 Stations Passenger Variation After the Opening of the Elizabeth Line](#-stations-passenger-variation-after-the-opening-of-the-elizabeth-line)
   - [🏡 Property Investment Reports for Homebuyers and Conveyancers](#-property-investment-reports-for-homebuyers-and-conveyancers)
   - [💷 Strategies for Fairer Council Tax in London](#-strategies-for-fairer-council-tax-in-london)
   - [💼 Data Analyst Job Vacancies in Taiwan](#-data-analyst-job-vacancies-in-taiwan)
@@ -39,7 +39,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Technology:** **Python**: Pandas, Numpy, Scikit-learn, Statsmodels, Scipy, Sklearn(Random Forest), Geopandas, Selenium, Seaborn, Matplotlib, Folium, Calplot. **R**: dplyr, tidyr, ggplot2, tmap.
 
 ### 🚇 Stations Passenger Variation After the Opening of the Elizabeth Line
-**Code & Report:** [`stations_passenger_variation_elizabeth_line.ipynb`]([https://](https://github.com/hongyue17/stations_passenger_variation_elizabeth_line/blob/main/stations_passenger_variation_elizabeth_line.ipynb)  
+**Code & Report:** [`stations_passenger_variation_elizabeth_line.ipynb`](https://github.com/hongyue17/stations_passenger_variation_elizabeth_line/blob/main/stations_passenger_variation_elizabeth_line.ipynb)  
 **Presentation:** [`Brief`](https://)  
 **Description:** This project was part of the Data Science for Urban Systems module during my master’s programme. The analysis focused on changes in passenger volume following the opening of the Elizabeth Line in May 2022, comparing it to passenger flow in 2021. As a case study of a major public transportation shift, the project examined how station usage patterns were affected. Clustering methods, including K-means and DBSCAN, were used to categorise stations based on entry and exit times. Passenger volumes were segmented by weekdays, Fridays, and weekends, and further divided into six time periods per day. These segments were used as features to cluster the stations. The analysis identified shifts in usage patterns, providing valuable insights for optimising station operations and adjusting service frequencies.  
 **Results:** Tottenham Court Road and Paddington emerged as key junctions, while Gloucester Road saw a decrease in passengers, indicating a shift in usage patterns.   
