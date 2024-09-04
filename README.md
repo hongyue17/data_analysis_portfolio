@@ -31,7 +31,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Technology:** Python, Pandas, Numpy, Statsmodels, Scipy, scikit-learn, K-means, Geopandas, Pyproj, Seaborn, Matplotlib.  
 
 ### 🚲 Forecasting Demand for London's Electric Shared Bikes
-**Code:** [`electric_bike_demand_forecast_london_py.ipynb`](https://github.com/hongyue17/data_analysis_portfolio/blob/main/electric_bike_demand_forecast_london_py.ipynb)  
+**Code:** [`electric_bike_demand_forecast_london_py.ipynb`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/electric_bike_demand_forecast_london_py.ipynb)  
 **Presentation:** [`Brief`](https://github.com/hongyue17/electric_bike_demand_forecast_london/tree/main), [`Full Report`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/full_report.pdf)  
 **Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure.  
 **Results:** The study revealed that electric bikes have different usage patterns compared to classic bikes, particularly with a notable decrease in demand during the winter months. The model, which takes into account factors such as station location, weekday, and time, effectively predicts the demand for electric bikes, offering valuable insights for optimizing their deployment.  
