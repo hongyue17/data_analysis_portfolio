@@ -12,7 +12,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [🥬 Analysing Unhealthy Shopping Patterns at ASDA Morley: Consumer Profiling Based on Basket Types and Geographical Distribution](#-analysing-unhealthy-shopping-patterns-at-asda-morley-consumer-profiling-based-on-basket-types-and-geographical-distribution)
-  - [🚲 Forecasting Demand for London's Electric Shared Bikes](#-forecasting-demand-for-londons-electric-shared-bikes)
+  - [🚲 Usage Patterns and Demand Forecasting for London's Electric Shared Bikes](#-usage-patterns-and-demand-forecasting-for-londons-electric-shared-bikes)
   - [🚇 Stations Passenger Variation After the Opening of the Elizabeth Line](#-stations-passenger-variation-after-the-opening-of-the-elizabeth-line)
   - [🏡 Property Investment Reports for Homebuyers and Conveyancers](#-property-investment-reports-for-homebuyers-and-conveyancers)
   - [💷 Strategies for Fairer Council Tax in London](#-strategies-for-fairer-council-tax-in-london)
@@ -32,7 +32,7 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 **Skills:** Data Cleaning and Processing, Statistical Analysis, Hypothesis Testing, Machine Learning, Geospatial Analysis, Visualisation, Large-scale Data Handling.  
 **Technology:** Python, Pandas, Numpy, Statsmodels, Scipy, scikit-learn, K-means, Geopandas, Pyproj, Seaborn, Matplotlib.  
 
-### 🚲 Forecasting Demand for London's Electric Shared Bikes
+### 🚲 Usage Patterns and Demand Forecasting for London's Electric Shared Bikes
 **Code:** [`Repository`](https://github.com/hongyue17/electric_bike_demand_forecast_london), [`electric_bike_demand_forecast_london_py.ipynb`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/electric_bike_demand_forecast_london_py.ipynb)  
 **Presentation:** [`Brief`](https://github.com/hongyue17/electric_bike_demand_forecast_london/tree/main), [`Full Report`](https://github.com/hongyue17/electric_bike_demand_forecast_london/blob/main/full_report.pdf)  
 **Description:** Classic bikes are commonly seen throughout London, yet electric shared bikes have not been introduced at every station. This project started with data cleaning and processing, followed by descriptive statistical analysis to pinpoint when and where demand peaks. It culminated in the development of a predictive model that successfully forecasts the demand for electric bikes at over 85% of stations. This model aims to enhance urban planning and facilitate the strategic expansion of the city’s cycling infrastructure.  
