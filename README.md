@@ -91,4 +91,4 @@ Explore my portfolio to see how I apply my versatile data analysis skills across
 
 ## Contacts
 - **LinkedIn:** [Yuchi Lai](https://www.linkedin.com/in/yuchi-lai-37937b256/)  
-- **E-mail:** gy23y2l@leeds.ac.uk, hongyuelai@gmail.com
+- **E-mail:** hongyuelai@gmail.com
